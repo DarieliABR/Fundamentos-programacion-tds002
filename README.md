@@ -5,7 +5,7 @@
 | :--- | :--- |
 | **Nombre** | Darieli Alexandra Báez Rosario |
 | **Matrícula** | 2026-0700 |
-| **Sección** | 3 |
+| **Sección** | 7 |
 
 ## Tareas y Prácticas
 | Semana | Carpeta | Nombre de la tarea |
