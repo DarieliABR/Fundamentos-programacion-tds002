@@ -11,4 +11,4 @@
 | Semana | Carpeta | Nombre de la tarea |
 | :--- | :--- | :--- |
 | Semana 1 | [`01-HolaMundo`](./01-HolaMundo) | Nivel 0 + Hola Mundo|
-| Semana 2 | [`02-Variables`](./02-Variables) | Nivel 1 + Variables, Constantes y tipos de datos|
+| Semana 2 | [`02-Variables`](./02-Variables)<br>[`Evaluacion02`](./Evaluacion02) | Nivel 1 + Variables, Constantes y tipos de datos<br>Evaluación 02: FichaPersonal, ConversorMoneda y Casting |
