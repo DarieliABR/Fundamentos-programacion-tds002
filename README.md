@@ -14,4 +14,4 @@
 | Semana 2 | [`02-Variables`](./02-Variables)<br>[`Evaluacion02`](./Evaluacion02) | Nivel 1 + Variables, Constantes y tipos de datos<br>Evaluación 02: FichaPersonal, ConversorMoneda y Casting |
 | Semana 2 | [`03-Operadores`](./03-Operadores)<br>[`Evaluacion03`](./Evaluacion03) | Nivel 2 + Variables, Constantes y tipos de datos<br>Evaluación 02:Entrada, Proceso, Salida |
 | Semana 4 | [`04-Secuencial`](./04-Secuencial)<br>[`Evaluacion04`](./Evaluacion04) | Conversor de unidades<br>Evaluación 04: Condiciones compuestas|
-
+| Semana 6 | [`06-Decisiones`](./06-Decisiones) | Estructuras de decisión y selección |
