@@ -15,4 +15,4 @@
 | Semana 2 | [`03-Operadores`](./03-Operadores)<br>[`Evaluacion03`](./Evaluacion03) | Nivel 2 + Variables, Constantes y tipos de datos<br>Evaluación 02:Entrada, Proceso, Salida |
 | Semana 4 | [`04-Secuencial`](./04-Secuencial)<br>[`Evaluacion04`](./Evaluacion04) | Conversor de unidades<br>Evaluación 04: Condiciones compuestas|
 | Semana 6 | [`06-Decisiones`](./06-Decisiones) | Estructuras de decisión y selección |
-| Semana 7 | [`07-Ciclos`](./07-Ciclos) | Ciclos while y do-while |
+| Semana 7 | [`07-Ciclos`](./07-Ciclos)<br>[`Evaluacion05`](./Evaluacion05) | Ciclos while y do-while<br>Evaluación 05: CajaRegistradora, AdivinaNumero y PromedioValidado |
